@@ -1,4 +1,4 @@
-# Blinkit-Analysis-Python-project-
+# Blinkit-Analysis-Python-project
 
 ## Problem Statement 
 Analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and KPI's Requirements such as Total Sales, Average sales, number of items sold.
